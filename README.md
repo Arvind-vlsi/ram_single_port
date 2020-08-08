@@ -11,4 +11,5 @@
     
     >first showing the writing operation , here we have store data till address 5 , after writing we done the reading data from RAM.
     
+ ---
  ![waveform](/waveform.png)
