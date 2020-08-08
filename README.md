@@ -9,7 +9,7 @@
     
   >In the waveforn 'addr' variable represents addess line of 6 bit to represent all 64 address, 'datain' represents the data we are feeding to the ram, 'dataout' variable represents the data we are reading from the memory
     
-   >first showing the writing operation , here we have store data till address 5 , after writing we done the reading data from RAM.
+   >first showing the writing operation , here we have store data till address 6 starting from addess 1 , after writing we done the reading data from RAM.
     
  ---
  ![waveform](/waveform.png)
