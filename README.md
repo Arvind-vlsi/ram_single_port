@@ -1,6 +1,6 @@
 # SINGLE PORT RAM
 
-  >In single port RAM ,only single address line is present ,which means at a time we can only either read or write a data
+  >In single port RAM using distributed memory ,only single address line is present ,which means at a time we can only either read or write a data
   >this is a code for depth of 64 address and each address stores 8bits=1bytes
   
   
